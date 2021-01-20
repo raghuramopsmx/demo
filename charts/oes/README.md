@@ -107,7 +107,7 @@ Parameter | Description | Default
 `sapor.config.spinnaker.spinGateURL` | URL of Spinnaker Gate | `http://spin-gate.oes-spin:8084`
 `sapor.config.spinnaker.spinExternalGateURL` | Set the external IP address of spin-gate, this is used to redirect to the spinnaker pipelines from OES-UI | `http://spin-gate.oes-spin:8084`
 `sapor.config.spinnaker.spinuser` | Spinnaker username | `admin`
-`sapor.config.spinnaker.spinpasswd` | Spinnaker username | `opsmx@123`
+`sapor.config.spinnaker.spinpasswd` | Spinnaker password | `opsmx@123`
 `sapor.config.spinnaker.spinAdminLoginEnabled` | Enable to override spinnaker user credentials as an admin user | `false`
 `sapor.config.spinnaker.spinAdminUsername` | Spinnaker admin username | `admin`
 `sapor.config.spinnaker.spinAdminPassword` | Spinnaker admin password | `admin`
